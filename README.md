@@ -27,7 +27,8 @@ example below is just a sample.
 
 
 ## Output data:
-The REST API should return data in the following format.
+###The REST API should return data in the following format.
+
 {
 "Rejected Transactions":[
 {
