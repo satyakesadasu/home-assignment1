@@ -11,7 +11,7 @@ input. The use case described above has not been described 100% but has enough d
 can make assumptions where needed, but please mention your assumptions as part of a
 readme.
 
-Input data:
+## Input data:
 The input consists of four fields separated with a comma(,).
 1. The first field is the combination of first name and last name separated by a comma (,)
 2. The second field is the email id of the user.
@@ -25,7 +25,8 @@ example below is just a sample.
 "John,Doe,john@doe.com,9,TR0004"
 "John,Doe,john@doe.com,2,TR0005"
 
-Output data:
+
+## Output data:
 The REST API should return data in the following format.
 {
 "Rejected Transactions":[
@@ -319,5 +320,3 @@ For further reference, please consider the following sections:
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.0/maven-plugin/reference/html/#build-image)
 * [Docker documentation](https://docs.docker.com/get-started/overview/)  
 
-
-# home-assignment1
